@@ -1,0 +1,2 @@
+gcc test_pokedex.c pokedex.h pokemon.h pokedex.c pokemon.c -o test_pokedex
+./test_pokedex
